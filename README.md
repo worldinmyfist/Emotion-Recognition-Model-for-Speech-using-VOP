@@ -30,16 +30,16 @@ colab. This will give the final accuracy and confusion matrix.
 the result where only vowel regions are used to train the model, comment out the
 following lines in [vop_model/speech_emotion_model.ipynb](https://github.com/worldinmyfist/Emotion-Recognition-Model-for-Speech-using-VOP/tree/main/Emotion%20Recognition%20Model/vop_model/speech_emotion_model.ipynb) :
 
-<p align = "center>
+<p align = "center">
   <img src="https://github.com/worldinmyfist/Emotion-Recognition-Model-for-Speech-using-VOP/blob/main/p1.png">
 </p>
-<p align = "center>
+<p align = "center">
   <img src="https://github.com/worldinmyfist/Emotion-Recognition-Model-for-Speech-using-VOP/blob/main/p2.png">
 </p>                                                                                                             
-<p align = "center>
+<p align = "center">
   <img src="https://github.com/worldinmyfist/Emotion-Recognition-Model-for-Speech-using-VOP/blob/main/p3.png">
 </p>                                                                                                             
-<p align = "center>
+<p align = "center">
   <img src="https://github.com/worldinmyfist/Emotion-Recognition-Model-for-Speech-using-VOP/blob/main/p4.png">
 </p>                                                                                                            
 
