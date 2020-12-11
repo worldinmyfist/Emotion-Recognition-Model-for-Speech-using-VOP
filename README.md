@@ -1,7 +1,7 @@
 # Emotion-Recognition-Model-for-Speech-using-VOP
 An Emotion Recognition Model for Speech that detects emotions using the features extracted from the speech and the vowel regions of speech.
 
-## Instructions to run the code
+## INSTRUCTIONS TO RUN THE CODE
 ### Introduction
 The [vop_model](https://github.com/worldinmyfist/Emotion-Recognition-Model-for-Speech-using-VOP/tree/main/Emotion%20Recognition%20Model/vop_model) folder contains codes that use wav files along with their corresponding vowel regions for training the model. The [non_vop_model](https://github.com/worldinmyfist/Emotion-Recognition-Model-for-Speech-using-VOP/tree/main/Emotion%20Recognition%20Model/non_vop_model) folder contains code that only uses wav files for training. The [vop_model/emodbdata/wav](https://github.com/worldinmyfist/Emotion-Recognition-Model-for-Speech-using-VOP/tree/main/Emotion%20Recognition%20Model/vop_model/emodbdata/wav) folder contains the training set and [vop_model/emodbdata_test/wav](https://github.com/worldinmyfist/Emotion-Recognition-Model-for-Speech-using-VOP/tree/main/Emotion%20Recognition%20Model/vop_model/emodbdata_test/wav) folder contains the testing set. 
 
@@ -41,7 +41,12 @@ following lines in [vop_model/speech_emotion_model.ipynb](https://github.com/wor
 </p>                                                                                                             
 <p align = "center">
   <img src="https://github.com/worldinmyfist/Emotion-Recognition-Model-for-Speech-using-VOP/blob/main/p4.png">
-</p>                                                                                                            
+</p> 
+
+## FINAL RESULTS
+<p align = "center">
+  <img src="https://github.com/worldinmyfist/Emotion-Recognition-Model-for-Speech-using-VOP/blob/main/p5.png">
+</p>
 
 ## AUTHOR
 [ARYAN AGARWAL](https://github.com/worldinmyfist/)
