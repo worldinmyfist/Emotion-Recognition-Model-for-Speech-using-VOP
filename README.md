@@ -26,7 +26,7 @@ colab. This will give the final accuracy and confusion matrix.
 * Run the code for the [non_vop_model](https://github.com/worldinmyfist/Emotion-Recognition-Model-for-Speech-using-VOP/tree/main/Emotion%20Recognition%20Model/non_vop_model) folder following the above steps. This folder is for the model trained without VOPs, only using the wav files.
 * Vary the number of MFCC features used to get other comparative results. Set **mfc** = 21, **dell** = 21 and **filtt** = 21 for the files :
 [non_vop_model/readdataemodb.ipynb](https://github.com/worldinmyfist/Emotion-Recognition-Model-for-Speech-using-VOP/tree/main/Emotion%20Recognition%20Model/non_vop_model/readdataemodb.ipynb), [vop_model/readdataemodb.ipynb](https://github.com/worldinmyfist/Emotion-Recognition-Model-for-Speech-using-VOP/tree/main/Emotion%20Recognition%20Model/vop_model/readdataemodb.ipynb), [vop_model/readdataemodb_train.ipynb](https://github.com/worldinmyfist/Emotion-Recognition-Model-for-Speech-using-VOP/tree/main/Emotion%20Recognition%20Model/vop_model/readdataemodb_train.ipynb) and [vop_model/readdataemodb_test.ipynb](https://github.com/worldinmyfist/Emotion-Recognition-Model-for-Speech-using-VOP/tree/main/Emotion%20Recognition%20Model/vop_model/readdataemodb_test.ipynb) to get the comparative results.
-3. The current codes use both, the wav files and vowel regions, to train the model. To see
+* The current codes use both, the wav files and vowel regions, to train the model. To see
 the result where only vowel regions are used to train the model, comment out the
 following lines in [vop_model/speech_emotion_model.ipynb](https://github.com/worldinmyfist/Emotion-Recognition-Model-for-Speech-using-VOP/tree/main/Emotion%20Recognition%20Model/vop_model/speech_emotion_model.ipynb) :
 
