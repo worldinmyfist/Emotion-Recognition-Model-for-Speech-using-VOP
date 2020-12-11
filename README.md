@@ -30,10 +30,10 @@ colab. This will give the final accuracy and confusion matrix.
 the result where only vowel regions are used to train the model, comment out the
 following lines in [vop_model/speech_emotion_model.ipynb](https://github.com/worldinmyfist/Emotion-Recognition-Model-for-Speech-using-VOP/tree/main/Emotion%20Recognition%20Model/vop_model/speech_emotion_model.ipynb) :
 
-![](https://github.com/worldinmyfist/Emotion-Recognition-Model-for-Speech-using-VOP/blob/main/p1.png)
-![](https://github.com/worldinmyfist/Emotion-Recognition-Model-for-Speech-using-VOP/blob/main/p2.png)
-![](https://github.com/worldinmyfist/Emotion-Recognition-Model-for-Speech-using-VOP/blob/main/p3.png)
-![](https://github.com/worldinmyfist/Emotion-Recognition-Model-for-Speech-using-VOP/blob/main/p4.png)
+![](https://github.com/worldinmyfist/Emotion-Recognition-Model-for-Speech-using-VOP/blob/main/p1.png) <br />
+![](https://github.com/worldinmyfist/Emotion-Recognition-Model-for-Speech-using-VOP/blob/main/p2.png) <br />
+![](https://github.com/worldinmyfist/Emotion-Recognition-Model-for-Speech-using-VOP/blob/main/p3.png) <br />
+![](https://github.com/worldinmyfist/Emotion-Recognition-Model-for-Speech-using-VOP/blob/main/p4.png) <br />
 
 ## AUTHOR
 [ARYAN AGARWAL](https://github.com/worldinmyfist/)
